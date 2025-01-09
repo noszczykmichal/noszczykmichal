@@ -1,6 +1,12 @@
 <img height='50%' src="https://raw.githubusercontent.com/noszczykmichal/noszczykmichal/main/images/hero.jpg"/>
 <p align="center">
-<a href="https://komarev.com/ghpvc/?username=noszczykmichal">
-  <img src="https://komarev.com/ghpvc/?username=noszczykmichal&label=Visitors&color=5E6F81&style=flat" alt="Profile visitor" />
-</a>
+   <img src="https://badges.pufler.dev/commits/monthly/noszczykmichal?color=5E6F81"/>
+   <img src="https://badges.pufler.dev/repos/noszczykmichal?color=5E6F81" />
+   <img src="https://badges.pufler.dev/visits/noszczykmichal/noszczykmichal?color=5E6F81" />
 </p>
+
+# About me
+
+💻&emsp; Enjoy programming and 🏗️ building nice looking and functional web apps<br/><br/>
+❤️&emsp; Love 📚 learning new features and stack<br/><br/>
+🤝&emsp; Enjoy 💼 working with people and being part of the team
