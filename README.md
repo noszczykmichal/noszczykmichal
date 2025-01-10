@@ -3,7 +3,7 @@
    <img src="https://badges.pufler.dev/commits/monthly/noszczykmichal?color=5E6F81"/>
    <img src="https://badges.pufler.dev/repos/noszczykmichal?color=5E6F81" />
    <img src="https://badges.pufler.dev/visits/noszczykmichal/noszczykmichal?color=5E6F81" />
-   [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+ 
 </p>
 
 # About me
