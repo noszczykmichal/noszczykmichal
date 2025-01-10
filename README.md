@@ -1,10 +1,9 @@
 <img height='50%' src="https://raw.githubusercontent.com/noszczykmichal/noszczykmichal/main/images/hero.jpg"/>
-<p align="center">
-   <img src="https://badges.pufler.dev/commits/monthly/noszczykmichal?color=5E6F81"/>
-   <img src="https://badges.pufler.dev/repos/noszczykmichal?color=5E6F81" />
-   <img src="https://badges.pufler.dev/visits/noszczykmichal/noszczykmichal?color=5E6F81" />
- 
-</p>
+<div align="center">
+   <img src="https://badges.pufler.dev/commits/monthly/noszczykmichal?color=5E6F81&cacheSeconds=3600"/>
+   <img src="https://badges.pufler.dev/repos/noszczykmichal?color=5E6F81&cacheSeconds=3600" />
+   <img src="https://badges.pufler.dev/visits/noszczykmichal/noszczykmichal?color=5E6F81&cacheSeconds=3600" />
+</div>
 
 # About me
 
@@ -16,8 +15,8 @@
 
 <p>Want to reach out to me?</p>
 <a href="https://michalnoszczyk.com" target="blank" style="">
-<img src="https://img.shields.io/badge/WEBSITE-64ffce?style=for-the-badge&logo=&logoColor=white" alt="link to michalnoszczyk.com"/>
- </a>
+  <img src="https://img.shields.io/badge/WEBSITE-20B2AA?style=for-the-badge&logo=&logoColor=white" alt="link to michalnoszczyk.com"/>
+</a>
 <a href="https://www.linkedin.com/in/michal-noszczyk/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"/>
  </a>
