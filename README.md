@@ -20,7 +20,8 @@
 <a href="https://www.linkedin.com/in/michal-noszczyk/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin profile"/>
  </a>
-<br/>
+<br/><br/>
+
 # The stack I've worked with so far
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
