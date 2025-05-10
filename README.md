@@ -2,7 +2,7 @@
 <div align="center">
    <img src="https://badges.pufler.dev/commits/monthly/noszczykmichal?color=5E6F81&cacheSeconds=3713"/>
    <img src="https://badges.pufler.dev/repos/noszczykmichal?color=5E6F81&cacheSeconds=3713" />
-   <img src="https://badges.pufler.dev/visits/noszczykmichal/noszczykmichal?color=5E6F81&cacheSeconds=3713" />
+   <img src="https://badges.pufler.dev/visits/noszczykmichal/noszczykmichal?color=5E6F81&cacheSeconds=3714" />
 </div>
 
 # About me
